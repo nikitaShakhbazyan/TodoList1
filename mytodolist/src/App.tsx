@@ -1,10 +1,8 @@
-import React from 'react';
-import './App.css';
-
+import Todo from "./ToDoList/Todo";
 function App() {
   return (
     <div>
-
+      <Todo/>
     </div>
   );
 }
